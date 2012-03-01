@@ -1,0 +1,8 @@
+.DS_Store
+
+*.flv
+*.fla
+*.swf
+
+ssp_director/
+wedding_videos/
